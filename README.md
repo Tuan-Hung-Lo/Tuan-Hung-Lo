@@ -57,7 +57,7 @@ I'm **Lỗ Tuấn Hùng**, a passionate final-year Computer Science student spec
 
 Feel free to reach out! I'm excited to collaborate and discuss opportunities in data engineering and data science.
 
-- LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/tuanhunglo/)](#)
+- LinkedIn: [[Tuấn Hùng Lỗ](https://www.linkedin.com/in/tuanhunglo/)](#)
 - Email: [[lotuanhung.work@gmail.com](mailto:lotuanhung.work@gmail.com)](#)
 
 ---
